@@ -126,5 +126,5 @@ E pronto! A Pokedex estará funcionando.
 
 👨‍💻 Autor
 
-Feito com ❤️ por Guilherme Andrade
+Feito por Guilherme Andrade
 
